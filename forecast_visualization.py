@@ -13,7 +13,7 @@ url = 'https://api.openweathermap.org/data/2.5/forecast'
 params = {
     'q': city,
     'appid': API_KEY,
-    'units': 'metric'  # Temperature in Celsius
+    'units': 'metric'  
 }
 
 # Fetch data from API
