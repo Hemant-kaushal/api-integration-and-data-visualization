@@ -1,2 +1,19 @@
 # summer-intern-2025-weather-forecast-visualizer
-Summer Internship 2025 Task 1: Visualizing real-time city temperatures using Python, OpenWeatherMap API and Seaborn
+
+This project fetches real-time weather data from the OpenWeatherMap API and visualizes the current temperatures of Daltonganj city  (Jharkhand) using Python, Seaborn, and Matplotlib.
+
+**This is my first task for my 2025 summer internship.**
+
+### Features:
+- Compare real-time city temperatures
+- Bar chart visualization of live weather data
+- Simple, clean Python script for API integration and visualization
+
+### Tools Used:
+- Python
+- Requests
+- Matplotlib
+- Seaborn
+- OpenWeatherMap API
+
+
